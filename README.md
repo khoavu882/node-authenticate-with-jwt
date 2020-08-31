@@ -1,4 +1,4 @@
-# node-authenticate-with-jwt
+# Node Express MongoDB Authenticate with JWT
 Simple Node Express MongoDB Authenticate with JWT
 
 ## Available Scripts
